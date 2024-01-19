@@ -1,0 +1,14 @@
+table{
+    border-color:aqua;
+    /*color:chartreuse;*/
+    
+}
+th
+{
+    border-color:blue;
+    color:red;
+}
+td{
+    border-color:olivedrab;
+    color: blueviolet;
+}

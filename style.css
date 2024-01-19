@@ -1,0 +1,39 @@
+.container
+  {
+    margin:20px;
+    padding:10px;
+    border:  5px dotted olivedrab;
+    border-radius: 50px;
+    background-color:violet;
+    background-image: url(./flower.jpg);
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    border-image-width: 50px;
+   
+
+
+  }
+  #amulya
+  {
+    background-color:purple;
+    
+  }
+  body
+  {
+    
+    background-image: url(./download.jpg);
+    background-repeat: no-repeat;
+    
+}
+  #paragraph
+{
+color:aqua;
+}
+h1
+{
+color:purple;
+}
+a:link
+{
+    color:red;
+}
