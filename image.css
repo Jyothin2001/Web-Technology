@@ -1,0 +1,98 @@
+.image
+{
+    background-color: aqua;
+    position: absolute;
+    height: 200px;
+    width: 300px;
+    opacity:0.4 ; /*transparency of image ,text also no need px*/
+}
+.text
+{
+    position: relative;  /* relative,absolute,fixed,sticky(relative+fixed)*/
+    color:red;
+    font-size: 15px;
+    opacity:0.4 ;
+    
+}
+body
+{
+background-color:white;
+}
+.transform
+{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    transform: rotate(50deg);
+    margin-top: 50px;
+
+}
+.translate
+{
+    transform: translate(80px,200px);
+}
+.scale
+{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    transform: scale(2,2); /* change the height and width ,1 or 2 it goes high better use width and height for small changes*/
+    margin-top: 50px;
+    transform: translate(40px,20px);
+
+}
+.scalex
+{
+    background-color: green;
+    width: 50px;
+    height: 50px;
+    transform: scaleX(6);
+    margin-top: 50px;
+    transform: translate(40px,20px);
+
+}
+
+.scaley
+{
+    background-color: green;
+    width: 50px;
+    height: 50px;
+    transform: scaley(6);
+    margin-top: 50px;
+    transform: translate(40px,20px);
+
+}
+
+.skew
+{
+    background-color:black;
+    width: 50px;
+    height: 50px;
+    transform: skew(6deg,2deg);
+    margin-top: 50px;
+    transform: translate(40px,20px);
+
+}
+
+.skewx
+{
+    background-color:brown;
+    width: 50px;
+    height: 50px;
+    transform: skewx(6deg);
+    margin-top: 50px;
+    transform: translate(40px,20px);
+
+}
+.skewy
+{
+    background-color:blueviolet;
+    width: 100px;
+    height: 50px;
+    transform: skewy(6deg);
+    margin-top: 50px;
+    transform: translate(40px,20px);
+
+}
+
+

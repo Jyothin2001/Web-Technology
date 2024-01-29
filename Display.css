@@ -1,0 +1,19 @@
+.display
+{
+background-color: blue;
+color: black;
+width:350px;
+/*display: flex; 
+justify-content: center;*/
+
+}
+.order
+{
+    background-color:white;
+    color:aqua;
+    
+}
+.span
+{
+    
+}

@@ -1,0 +1,89 @@
+body
+{
+    background-color:  rgb(229, 242, 253);
+}
+
+
+.fb
+{
+color: rgb(68, 68, 232);
+margin-top: 250px;
+margin-left: 300px;
+margin-bottom: 10px;
+
+
+}
+.fbtext
+{
+margin-top: 0px;
+margin-left: 300px;
+}
+.main
+{
+background-color: white;
+width: 250px;
+height: 300px;
+border-radius: 10px;
+
+}
+.main1
+{
+    display: flex;
+    justify-content: center;
+    margin-left: 650px;
+    margin-top: -200px;
+    
+}
+.email
+{
+  margin-top: 10px;
+  margin-left: 15px;
+  width:210px;
+  border-radius:2px;
+  font-size: 10px;
+  padding: 4px;
+
+
+}
+.login
+{
+  background-color:  rgba(9, 9, 245, 0.74);
+  color: white;
+  width:218px;
+  margin-top: 20px;
+  margin-left: 15px;
+  border-radius: 2px;
+  border: 0px;
+  }
+  .login:hover 
+  {
+background-color: rgb(31, 31, 138);
+  }
+.para
+{
+  font-size: 12px;
+text-align: center;
+margin-left: 70px;
+color: blue;
+}
+.hr
+{
+  width: 210px;
+}
+
+.account
+{
+  background-color: rgb(16, 237, 16);
+  color: white;
+  border: 0px;
+  width: 100px;
+  border-radius: 2px;
+  font-size: 12px;
+  font-family:Arial, Helvetica, sans-serif;
+  margin-left: 70px;
+  margin-top: 10px;
+
+}
+.account:hover{
+  background-color: rgb(36, 200, 36);
+}
